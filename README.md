@@ -1,5 +1,7 @@
 백준 알고리즘 (https://www.acmicpc.net/) 문제 정답입니다.
 
+scr/baekjoon
+
 1. 기본적으로 사용 언어는 JAVA 이며 버전은 11 입니다. 일부 JAVA 15 또는 Python 으로 작성된 문제가 있을 수 있습니다.
 2. 패키지 내 b문제번호 클래스로 작성되어 있습니다.
    (ex 2557번 Hello World! 문제 -> b2557.java)
