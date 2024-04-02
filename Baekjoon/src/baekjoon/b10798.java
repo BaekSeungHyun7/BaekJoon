@@ -11,7 +11,7 @@ public class b10798 {
             words[i] = sc.nextLine();
         }
 
-        // 최대 단어 길이를 가진 열까지 반복
+        // 최대 단어 길이를 가진 열까지 반복함
         for (int col = 0; col < 15; col++) { //열
             for (int row = 0; row < 5; row++) { //행 (단어)
                 if (col < words[row].length()) { // 현재 열에서 글자가 있는지 확인

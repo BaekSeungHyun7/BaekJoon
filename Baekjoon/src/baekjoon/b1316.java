@@ -13,7 +13,6 @@ public class b1316 {
                 count++;
             }
         }
-
         System.out.println(count);
     }
 

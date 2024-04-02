@@ -35,6 +35,7 @@ public class b2738 {
             for (int j = 0; j < m; j++) {
                 System.out.print(result[i][j] + " ");
             }
+            
             System.out.println();
         }
     }

@@ -23,8 +23,7 @@ public class b27160 {
 		}
 		if(map.containsValue(5)) {
 			System.out.println("YES");
-		}
-		else {
+		}else {
 			System.out.println("NO");
 		}
 	}

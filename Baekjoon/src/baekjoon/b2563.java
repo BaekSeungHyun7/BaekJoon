@@ -19,7 +19,7 @@ public class b2563 {
     	// 도화지 생성
     	for (int i = 0; i < x; i++) {
     		for (int j = 0; j < y; j++) {
-    			arr[i][j] = 0;
+    			arr[i][j] = 0;//
     			}
     		}
     	
@@ -38,7 +38,7 @@ public class b2563 {
             }
         }
         
-    	//결과 출력
+    	//결과
         System.out.println(result);
     }
 }

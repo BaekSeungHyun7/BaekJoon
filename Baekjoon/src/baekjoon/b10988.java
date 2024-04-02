@@ -16,7 +16,6 @@ public class b10988 {
 	            break;
 	        }
 		}
-		
 		System.out.println(ans);
 	}
 }
